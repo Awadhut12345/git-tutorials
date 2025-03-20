@@ -1,1 +1,1 @@
-Git Tutorial - ne changes
+Git Tutorial - new changes file
